@@ -1,0 +1,32 @@
+# Build directories
+x64/
+x86/
+Debug/
+Release/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache & user-specific files
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+*.sln.docstates
+*.opensdf
+*.sdf
+*.ipch
+ipch/
+
+# Compiled binaries & debug symbols
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.obj
+*.pch
+*.idb
+*.tlog
+*.log
+*.lastbuildstate
